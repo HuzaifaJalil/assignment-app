@@ -1,0 +1,1 @@
+export { WhatsAppContactComponent } from "./WhatsAppContactComponent";

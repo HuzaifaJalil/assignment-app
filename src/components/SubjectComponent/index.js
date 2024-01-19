@@ -1,0 +1,1 @@
+export { SubjectComponent } from "./SubjectComponent";
